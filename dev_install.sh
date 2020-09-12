@@ -1,0 +1,1 @@
+pipenv run octoprint dev plugin:install

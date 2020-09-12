@@ -1,6 +1,8 @@
+from octoprint_printlog import PLUGIN_NAME as plugin_name
+
 plugin_identifier = "printlog"
 plugin_package = "octoprint_printlog"
-plugin_name = "Printlog"
+# plugin_name = "Printlog"
 plugin_version = "0.0.1"
 plugin_description = """A method to submit stats to printlog.massive.in"""
 plugin_author = "James Hodgkinson"
